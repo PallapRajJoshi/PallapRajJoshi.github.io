@@ -1,17 +1,25 @@
 .name {
+    padding: 0;
+    margin: 0;
+    border-top: 2px solid rgb(255, 172, 47);
     justify-content: center;
     text-align: center;
     font-weight: bold;
-    font-style: initial;
-    font-size: 50px;
+    font-style: italic;
+    font-size: 40px;
+    height: 65px;
+    width: 1515px;
+    background-position: fixed;
+    background-color: rgb(171, 252, 10);
 }
 
 .checkfirst {
-    padding: 20px;
-    margin: 10px;
-    border: 2px solid rgb(206, 21, 21);
+    padding: 0px;
+    margin: 0px;
+    border: 0px solid rgb(206, 21, 21);
     height: 680px;
     width: 1450px;
+    position: fixed;
 }
 
 .first {
@@ -22,6 +30,7 @@
     justify-content: right;
     background-color: green;
     text-decoration: none;
+    width: 1515px;
 }
 
 .one {
@@ -82,7 +91,13 @@
     text-decoration-color: aquamarine;
 }
 
-p {
+.status {
     text-align: center;
-    max-width: 40%;
+    max-width: 80%;
+    text-align: center;
+}
+
+.leftphoto {
+    text-align: center;
+    justify-content: right;
 }
