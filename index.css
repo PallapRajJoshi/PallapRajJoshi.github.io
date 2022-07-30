@@ -11,6 +11,8 @@
     width: 1515px;
     background-position: fixed;
     background-color: rgb(171, 252, 10);
+    /* text-shadow: x-offset y-offset blur-radiuus color */
+    text-shadow: 3px 3px 5px #f4840d;
 }
 
 .checkfirst {
@@ -55,6 +57,7 @@
     padding: 10px;
     margin: 10px;
     text-decoration: none;
+    text-shadow: 3px 3px 5px #faf3ec;
 }
 
 .three {
@@ -89,6 +92,7 @@
     font-size: 40px;
     color: rgb(13, 13, 212);
     text-decoration-color: aquamarine;
+    text-shadow: 3px 3px 5px #f4840d;
 }
 
 .status {
