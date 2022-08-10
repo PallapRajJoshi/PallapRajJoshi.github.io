@@ -1,36 +1,16 @@
 .introduction {
-    border: 1px solid blueviolet;
-    height: 300px;
-    width: 1000px;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.introduction {
+    width: 100%;
+    min-width: 1000px;
+    height: auto;
+}
+
+.introduction {
+    width: 90%;
+    height: auto;
     margin: auto;
-    background-color: rgb(44, 225, 8);
-}
-
-.name {
-    color: rgb(23, 118, 4);
-}
-
-.place {
-    color: rgb(241, 15, 27);
-}
-
-.school {
-    color: blueviolet;
-}
-
-.college {
-    color: rgb(203, 11, 11);
-}
-
-.bim {
-    color: rgb(159, 80, 7);
-}
-
-.outer {
-    background-color: aquamarine;
-    height: 65px;
-    width: 1515px;
 }
